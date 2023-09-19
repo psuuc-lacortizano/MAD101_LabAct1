@@ -2,21 +2,6 @@ import 'package:flutter/material.dart';
 
 void main(){
 
- // runApp(MaterialApp(
-
-   // debugShowCheckedModeBanner: false,
-
-//home: Scaffold(
- // backgroundColor: Color.fromARGB(255, 133, 110, 180),
-
-//body: Center(
- // child: Text("Oten ni renz mabaho"),
-//),
-
-//),
-
- // ),
-  //;
 runApp(const Hihu());
 }
 
