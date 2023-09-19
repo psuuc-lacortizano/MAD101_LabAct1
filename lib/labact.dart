@@ -28,7 +28,7 @@ class Hihu extends StatelessWidget {
                   alignment: Alignment.topLeft,
                   child: Padding(
                     padding: EdgeInsets.only(top:20),
-                    child: Text("Student's Address: Macao, Killo Sison Pangasinan"),
+                    child: Text("Student's Name: Ortizano, Luiz Aldrin C."),
                   ),),
 
                 Align(
